@@ -16,7 +16,7 @@ keyword:
  - unicorn
  - AI-native
 venue:
-#  group: WG
+#  group: WG2
 #  type: Working Group
 #  mail: WG@example.com
 #  arch: https://example.com/WG
@@ -37,7 +37,7 @@ informative:
 
 --- abstract
 
-TODO Abstract
+This is a test document.
 
 
 --- middle
