@@ -3,7 +3,7 @@ title: "Github Tutorial"
 abbrev: "Github Tutorial"
 category: info
 
-docname: draft-kuehlewind-github-tutorial-latest
+docname: draft-akiyama-github-tutorial-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
