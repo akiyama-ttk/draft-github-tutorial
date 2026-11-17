@@ -1,0 +1,146 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2026-11-17T00:38:51.269558+00:00",
+  "repo": "akiyama-ttk/draft-github-tutorial",
+  "labels": [
+    {
+      "name": "accessibility",
+      "description": "Barrier affecting people with disabilities",
+      "color": "f143ab"
+    },
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    },
+    {
+      "name": "Hard issue",
+      "description": "",
+      "color": "d2acaa"
+    }
+  ],
+  "issues": [
+    {
+      "number": 1,
+      "id": "I_kwDOVvsUys8AAAABfhydTA",
+      "title": "Add Security consideration",
+      "url": "https://github.com/akiyama-ttk/draft-github-tutorial/issues/1",
+      "state": "OPEN",
+      "author": "akiyama-ttk",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [
+        "Hard issue"
+      ],
+      "body": "TBA",
+      "createdAt": "2026-11-15T23:09:09Z",
+      "updatedAt": "2026-11-15T23:11:36Z",
+      "closedAt": null,
+      "comments": []
+    },
+    {
+      "number": 3,
+      "id": "I_kwDOVvsUys8AAAABfh8ouw",
+      "title": "Add the other author",
+      "url": "https://github.com/akiyama-ttk/draft-github-tutorial/issues/3",
+      "state": "CLOSED",
+      "author": "akiyama-ttk",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [
+        "documentation"
+      ],
+      "body": "TBA",
+      "createdAt": "2026-11-15T23:26:28Z",
+      "updatedAt": "2026-11-15T23:27:35Z",
+      "closedAt": "2026-11-15T23:27:35Z",
+      "comments": []
+    },
+    {
+      "number": 4,
+      "id": "I_kwDOVvsUys8AAAABfh9u1w",
+      "title": "Add the other author",
+      "url": "https://github.com/akiyama-ttk/draft-github-tutorial/issues/4",
+      "state": "OPEN",
+      "author": "akiyama-ttk",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [
+        "documentation"
+      ],
+      "body": "",
+      "createdAt": "2026-11-15T23:28:21Z",
+      "updatedAt": "2026-11-15T23:28:21Z",
+      "closedAt": null,
+      "comments": []
+    }
+  ],
+  "pulls": [
+    {
+      "number": 2,
+      "id": "PR_kwDOVvsUys8AAAABPZfVIg",
+      "title": "Update abstract with author's name",
+      "url": "https://github.com/akiyama-ttk/draft-github-tutorial/pull/2",
+      "state": "OPEN",
+      "author": "akiyama-ttk",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Added author's name to the test document.",
+      "createdAt": "2026-11-15T23:22:32Z",
+      "updatedAt": "2026-11-15T23:22:32Z",
+      "baseRepository": "akiyama-ttk/draft-github-tutorial",
+      "baseRefName": "main",
+      "baseRefOid": "395450e182d33cc2483adbb3aece10a7fb3c3342",
+      "headRepository": "akiyama-ttk/draft-github-tutorial",
+      "headRefName": "akiyama-ttk-patch-1",
+      "headRefOid": "25dab515aae323315ca0237c074b180390b731c5",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": []
+    }
+  ]
+}
